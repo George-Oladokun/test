@@ -1,0 +1,8 @@
+list step to be taken to deploy a vite+React Application on the Cpanel
+     ANSWER
+1. Build your Vite + React application
+2. Prepare for deployment
+3. Access cPanel
+4. Upload your application
+5. Set up the domain/subdomain
+6. Test your application

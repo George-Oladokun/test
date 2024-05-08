@@ -1,0 +1,12 @@
+List 10 hosting platforms that you know
+      ANSWER
+1. Amazon Web Services (AWS)
+2. Microsoft Azure
+3. Google Cloud Platform (GCP)
+4. DreamHost
+5. Bluehost
+6. SiteGround
+7. Linode
+8. HostGator
+9. Vultr
+10. DigitalOcean
